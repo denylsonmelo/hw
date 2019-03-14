@@ -51,8 +51,16 @@ Repositório para a disciplina Hardware Básico dos cursos de Informática do If
 </div>
 <br/>
 
-Data        |   Evento                  |   Atividade
----         |   ---                     |   ---
+Data        |   Atividade
+02/04       |   Capitulo 1 e 2
+19/04       |   Capitulo 3
+29/04       |   Capitulo 4
+10/05       |   Capitulo 5
+31/05       |   Capitulo 6
+14/06       |   Capitulo 7
+28/06       |   Capitulo 8
+16/07       |   Capitulo 9
+04/08       |   Capitulo 10, 11, 12, 13 e 14
 
 ## Exercicios
 ----
